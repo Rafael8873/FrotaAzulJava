@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Autocarro
+comment1.params=m
+comment1.target=Autocarro(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMatricula()
+comment3.params=novaMatricula
+comment3.target=void\ setMatricula(java.lang.String)
+comment4.params=
+comment4.target=int\ getKms()
+comment5.params=nKms
+comment5.target=void\ setKms(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
